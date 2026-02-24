@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-49a1245d","path":"/downloads/","title":"Downloads","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"IJP Schema File","slug":"ijp-schema-file","link":"#ijp-schema-file","children":[]}],"git":{},"filePathRelative":"downloads/README.md"}');export{e as data};
