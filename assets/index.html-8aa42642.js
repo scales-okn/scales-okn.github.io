@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-690805d6","path":"/consortium/","title":"SCALES OKN Consortium","lang":"en-US","frontmatter":{"title":"SCALES OKN Consortium"},"headers":[],"git":{},"filePathRelative":"consortium/README.md"}');export{t as data};
